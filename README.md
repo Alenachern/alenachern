@@ -18,4 +18,6 @@
 - [Bug Reports](https://github.com/Alenachern/bugreports)
 - [Postman Collections]
 
-Follow me
+### Follow Me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-0a0a0a?style=for-the-badge&logo=TELEGRAM&logoColor=00BFFF)](https://t.me/chernyshova_aleena)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0a0a0a?style=for-the-badge&logo=LINKEDIN&logoColor=0000FF)](https://www.linkedin.com/in/alenachernyshova/)
