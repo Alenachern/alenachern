@@ -16,7 +16,6 @@
 - [Checklists](https://github.com/Alenachern/checklists)
 - [Test Cases](https://github.com/Alenachern/testcases)
 - [Bug Reports](https://github.com/Alenachern/bugreports)
-- [Postman Collections]
 
 ### Follow Me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-0a0a0a?style=for-the-badge&logo=TELEGRAM&logoColor=00BFFF)](https://t.me/chernyshova_aleena)
